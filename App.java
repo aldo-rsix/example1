@@ -1,7 +1,7 @@
 public class App {
 
     public static void main(String[] args) {
-	    System.out.printtln("hello world!");
+	    System.out.printtln("hello world");
 	}
 
 }
